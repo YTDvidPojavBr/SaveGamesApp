@@ -5,10 +5,10 @@
 ## 🌟 Principais Funcionalidades
 
 - **Catálogo de Jogos Personalizado**  
-  Navegue por uma lista de jogos com nome, descrição, imagem e link direto para download.
+  Navegue por uma lista de jogos com link direto para download.
 
 - **Emuladores**  
-  Download de emuladores para o android, jogue jogos de pc, ps3, ps2 e etc, para jogar jogos de outras plataformas no seu celular. Além de configurações para eles funcionar.
+  Download de emuladores para o android, jogue jogos de diferentes plataformas no seu celular. Além de configurações para eles funcionar.
 
 - **Interface Dark com Cartões Personalizados**  
   Layout bonito com cartões arredondados, ideal para destacar cada jogo de forma organizada e agradável aos olhos.
